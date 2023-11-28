@@ -1,6 +1,6 @@
 
 ## Overview
-This repository contains a Jupyter notebook detailing our project for CSCE 598, focused on language translation using neural networks and evaluating the score using cosine similiarity. The core of the project revolves around the English-Spanish dataset and utilizes the MarianMT model for sentence translation.
+This repository contains a Jupyter notebook detailing our project for CSCE 598, focused on language translation using neural networks and evaluating the score using cosine similiarity. The core of the project revolves around the English-Spanish dataset and utilizes the MarianMT model and gpt-3 for sentence translation.
 
 ## Features
 - **Module Installation and Library Import**: Essential libraries and modules for the project are listed and installed for seamless replication and study.
